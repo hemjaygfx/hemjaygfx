@@ -24,6 +24,10 @@ I've got a few pinned projects, but my favorite is [NexTalk](https://github.com/
 - I judge the success of my day by how many times I actually remembered to stand up from my chair
 - If an app doesn't have a Dark Mode, I'm probably not using it
 - Enjoys football and strategy games when not coding
+
+I can easily add 10 more paragraphs about myself but since I'm such a nice guy I'll leave it here and uhm... go check out my projects instead 👀
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hemjaygfx&theme=dark&hide_border=true)
   
 If you enjoy my work, projects, or content, your support helps me continue learning, building, and creating even more useful applications for the community.
 
