@@ -24,7 +24,7 @@ I've got a few pinned projects, but my favorite is [NexTalk](https://github.com/
 
 I can easily add 10 more paragraphs about myself but since I'm such a nice guy I'll leave it here and uhm... go check out my projects instead👀
 
-![GitHub streak stats](https://github-readme-streak-stats.demolab.com/?user=hemjaygfx&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=hemjaygfx&show_icons=true&theme=dark&hide_border=true)
 
 If you enjoy my work, projects, or content, your support helps me continue learning, building, and creating even more useful applications for the community.
 
