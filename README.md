@@ -15,8 +15,6 @@ I build clean, real-time web apps and I care just as much about how they look as
 
 My expertise lies in the MERN Stack, where i specialize in building robust backend architecture & responsive, high-concurrency frontends.
 
-I've got a few pinned projects, but my favorite is [NexTalk](https://github.com/hemjaygfx/NexTalk) — a real-time MERN chat app with Socket.io and JWT auth.
-
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hemjaygfx&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 **Fun Facts:**
