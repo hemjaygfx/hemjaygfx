@@ -23,7 +23,7 @@ My expertise lies in the MERN Stack, where i specialize in building robust backe
 - Enjoys football and strategy games when not coding
 - If an app doesn't have a Dark Mode, I'm probably not using it
 
-I can easily add 10 more paragraphs about myself but since I'm such a nice guy I'll leave it here and uhm... go check out my projects instead👀
+I can easily add 10 more paragraphs about myself but since I'm such a nice & cool guy, I'll leave it here and uhm... go check out my projects instead👀
 
 ![](https://streak-stats.demolab.com/?user=hemjaygfx&theme=dark&hide_border=true)
 
